@@ -24,6 +24,7 @@ You are to create a simple mobile application – working title: “Landmark Rem
 
 ## Build log
 - Boiler plate template commenced. Strategy for tackling checklist planned.
+- Basic server setup for accessing database
 
 ---
 
